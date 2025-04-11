@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Lara Muammar (@lara356)
+# 👋 Hi, I’m Lara Daraghmeh (@lara356)
 
 - 👩‍💻 I'm a Computer Engineering graduate with honors from Arab American University.
 - 🎯 I'm passionate about software development, backend engineering, and solving real-world problems through technology.
